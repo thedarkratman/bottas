@@ -23,7 +23,7 @@ user_agents = [
 ]
 
 # Target URL
-target_url = "https://guns.lol/pronhubstar"
+target_url = "https://guns.lol/r3setisback"
 
 # ANSI color codes for styling
 class bcolors:
